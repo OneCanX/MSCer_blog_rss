@@ -56,3 +56,4 @@ MSC各位成员的博客rss地址的收集仓库
 - Reverier: [Reverier](https://www.wootec.top/)
 
 https://alpha-yang.github.io/
+https://onecanx.github.io/
